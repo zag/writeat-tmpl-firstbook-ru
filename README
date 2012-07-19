@@ -1,0 +1,17 @@
+writeat-tmpl-firstbook-ru
+===================
+
+Book template for WriteAt suite
+
+INSTALLATION
+
+To build this book type the following:
+
+    make
+
+To rebuil:
+
+    make clean
+
+
+
