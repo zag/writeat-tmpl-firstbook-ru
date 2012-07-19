@@ -20,4 +20,4 @@
 Тип книги	|	Формат
 ================|=====================
 печатная	|	свиток, кодекс 
-електронная	|	EPUB, PDF, TXT, RTF, HTML, AZW, FB2, BBeB, DOC, non-DRM MOBI, PRC
+электронная	|	EPUB, PDF, TXT, RTF, HTML, AZW, FB2, BBeB, DOC, non-DRM MOBI, PRC
